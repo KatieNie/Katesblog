@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
+    title: `Kate's Blog`,
+    author: `Kate Niendorf`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://kateniendorf.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `katosphere`,
     },
   },
   plugins: [
@@ -72,6 +72,15 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-144229879-1',
+        head: false,
+        anonymize: true,
+        respectDNT: true,
       },
     },
   ],
