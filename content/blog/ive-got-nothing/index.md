@@ -1,6 +1,7 @@
 ---
 title: I've got nothing? Podcasts, creativity, engineering
 date: "2019-11-02"
+description: I love podcasts. They fill my quiet chores or workout sessions with fascinating or comforting conversation, and often with new perspectives. The funny thing about podcasts is that they seem just pop out of thin air, and you think
 ---
 
 I love podcasts. They fill my quiet chores or workout sessions with fascinating or comforting conversation, and often with new perspectives. The funny thing about podcasts is that they seem just pop out of thin air, and you think,
