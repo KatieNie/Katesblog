@@ -1,0 +1,37 @@
+Learning about SEO
+
+XML Sitemaps
+
+Resources:
+https://moz.com/blog/xml-sitemaps
+
+
+I have been working for our company's corporate site. It is a multi-tentacle process that involves really almost the whole organization
+in one way or another. 
+
+We have to have the correct information about the state of the product. The sales and marketing input, the leadership approval and then there is the 
+design aspects which can be 2 or 3 resources, some external to our internal team, and finally the SEO concerns. While looking into the SEO 
+goals for our site.
+
+In the process of exploring how we wanted to change the layout for the site we re-vamped the site map - a diagram of how the pages will be
+interconnected and the heirachy  of the information we felt would be most useful for new and existing customers. While working on this task I cam
+to realize that there are multiple definitions for site map. It can mean that diagram that is used while designing the website but it can also 
+mean an actual part of the website where you provide the user with a list of links to parts of your website. Sitemap can also refer to an XML file that lists
+URLS for a site in addition to providing metadata about each of those URLs. When relating this to SEO, there
+is the XML sitemap, which is I wanted to dive deeper what exactly the XML Sitemap is used for and why we should care about it. Also, what are some
+common mistakes that can be made while navigatings these items.
+
+But before we get to the actual XML sitemap we have to know more about what Google is looking for
+when it decides which pages to return when a user enters words into its search. If you have
+a site that has only a few really high quality content pages but many more filler pages, Google
+is less likely to send a user there because they will probably end up clicking somewhere
+else in your site, which could have less quality, thus making the whole path less useful if it was
+graded as a whole. 
+
+Since many pages of a website are more for just general information about a business, etc.. these could
+be left out of a sitemap for search engines because they are necessary but interesting as a 
+landing point for a google search. As such, utility pages should not be included in your XML sitemap. Mostly becuase
+if you include them, Google will judge them as lesser quality, and it will bring down the total 
+score of your website. Thus your Google rating as a research result.
+
+Merci à très bientôt ! 
