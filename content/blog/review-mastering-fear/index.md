@@ -1,6 +1,7 @@
 ---
 title: Review - Mastering Fear by Brandon Webb
 date: "2019-06-29"
+description: Here is a description for review mastering fear.
 ---
 
 While on vacation last month I picked up this novel by Brandon Webb. It reminded me of another book I'd read earlier this summer, *Can't Hurt Me* by David Goggins. 
